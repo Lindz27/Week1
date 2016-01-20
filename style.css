@@ -1,0 +1,18 @@
+p {
+	font:Helvetica;
+	background-color: gray;
+}
+
+a {
+	color:red;
+	text-decoration: none;
+}
+
+a:hover{
+	color: green;
+}
+
+div {
+
+	text-align: center;
+}
